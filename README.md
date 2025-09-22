@@ -1,1 +1,2 @@
-# notes
+# notesKyra
+Kyra Alcoran
